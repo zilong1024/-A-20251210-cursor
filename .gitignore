@@ -1,0 +1,19 @@
+# Logs and temp
+auto_git.log
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Archives
+*.rar
+*.zip
+*.tar
+*.gz
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
