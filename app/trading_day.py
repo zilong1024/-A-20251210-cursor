@@ -24,3 +24,4 @@ def map_datetime_to_trade_date(dt: datetime, trade_calendar: Iterable[date]) -> 
 
     raise ValueError(f"无法为时间 {dt.isoformat()} 映射交易日，请检查行情日历。")
 
+
